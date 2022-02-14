@@ -1,0 +1,19 @@
+<script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    {{- if eq .Site.Params.colorScheme "light" }}
+    if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+    {{- else if eq .Site.Params.colorScheme "dark" }}
+    if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: light)").matches) || storageColorScheme == "Light") {
+        document.getElementsByTagName('html')[0].classList.remove('dark')
+    }
+    {{- else }}
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+    {{- end }}
+</script>
+<div class="text-center pb-6 pt-12 pin-b footer">
+    <p class="text-sm text-tertiary-text">{{ with .Site.Copyright }}{{ replace . "{year}" now.Year | safeHTML }} &middot; {{ end }} Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div>

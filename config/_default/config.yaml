@@ -1,0 +1,47 @@
+baseURL: https://fibrohell.github.io/
+title: Fibro Hell
+
+# Comment when installing using Hugo Modules
+theme: eureka
+# Uncomment when installing using Hugo Modules
+# theme: wangchucheng.com/hugo-eureka
+# If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
+ 
+paginate: 5
+copyright: >
+  License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a> · Author: <a href="https://blog.brunomiguel.net">Bruno</a> · <a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo</a>
+enableEmoji: true
+enableGitInfo: true
+summaryLength: 75
+publishDir: docs
+
+defaultContentLanguage: en
+hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir: false
+
+# Uncomment for google analytics
+# googleAnalytics: UA-123-45
+
+markup:
+  # Do not modify markup.highlight
+  highlight:
+    codeFences: false
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: authors
+
+build:
+  useResourceCacheWhen: always
+
+

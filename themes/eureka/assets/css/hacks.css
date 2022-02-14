@@ -1,0 +1,44 @@
+.dark .hover\:shadow-lg:hover {
+	border-color: var(--color-border) !important;
+	box-shadow: none !important;
+}
+
+.hover\:shadow-lg:hover {
+	border-color: var(--color-border) !important;
+	box-shadow: none !important;
+}
+
+.links a.text-xl, .links a {
+	color: var(--color-eureka) !important;
+}
+
+.links a.text-xl:hover, .links a.text-xl:active, .links a:hover, .links a:active {
+	color: var(--color-eureka-hover) !important;
+}
+
+.text-xs {
+	line-height: 1.5rem !important;
+}
+
+.links li.active a.page-link {
+	color: var(--color-tertiary-text) !important;
+}
+
+a.color-secondary-text {
+	color: var(--color-secondary-text) !important;
+}
+
+.dark *, .dark ::before, .dark ::after {
+	border-color: rgba(255,255,255,0.10);
+}
+
+.dark .selected-menu-item {
+	border-top-color: var(--color-eureka) !important;
+	border-bottom-color: transparent;
+}
+
+.selected-menu-item {
+	border-top-color: var(--color-eureka) !important;
+	border-bottom-color: transparent;
+}
+
