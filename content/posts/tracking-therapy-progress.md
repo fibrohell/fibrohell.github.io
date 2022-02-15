@@ -35,3 +35,5 @@ One application, however, had been on my radar, but I never got to give it a go.
 The sky is the limit with [Logseq](https://logseq.com/). I truly recommend it if you want to keep track of your progress with any therapy or medication you're taking for your fibromyalgia. But you can also use it for your studies, save recipes and so on.
 
 Logseq's potential not only is immense, but it brought order to my tired and chaotic mind. I give it 20 out of 10!
+
+<small>_photo from [Unsplash](https://unsplash.com/photos/lbO1iCnbTW0)_</small>
