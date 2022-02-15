@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journaling on Fibro Hell</title>
+    <link>https://fibrohell.github.io/tags/journaling/</link>
+    <description>Recent content in journaling on Fibro Hell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Tue, 15 Feb 2022 02:50:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/journaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking the therapy progress</title>
+      <link>https://fibrohell.github.io/posts/tracking-therapy-progress/</link>
+      <pubDate>Tue, 15 Feb 2022 02:50:00 +0100</pubDate>
+      
+      <guid>https://fibrohell.github.io/posts/tracking-therapy-progress/</guid>
+      <description>Ever since I started transcranial magnetic stimulation therapy, I&amp;rsquo;ve wanted an easy way for me to keep track of its effects. I carried out trials with a few methods, but they all fell short.
+First, I experimented with writing text/markdown/org files, but it got messier as the notes grew. Then, dedicated simple note-taking software like Google Keep, but this method had the same issues as the text files. I needed context, relationships and simple search, and none of the methods above had all of these prerequisites.</description>
+    </item>
+    
+  </channel>
+</rss>
