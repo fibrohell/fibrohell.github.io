@@ -1,33 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>medical appointment on Fibro Hell</title>
-    <link>https://fibrohell.github.io/tags/medical-appointment/</link>
-    <description>Recent content in medical appointment on Fibro Hell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Thu, 10 Feb 2022 00:00:10 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/medical-appointment/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Third appointment done</title>
-      <link>https://fibrohell.github.io/posts/third-appointment/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:10 +0100</pubDate>
-      
-      <guid>https://fibrohell.github.io/posts/third-appointment/</guid>
-      <description>Yesterday, the 10th, I had my third transcranial magnetic stimulation appointment. Unlike last time, there was no delay; I believe it was because I was the day&amp;rsquo;s first patient. I&amp;rsquo;ll probably be the first again on the next one because it&amp;rsquo;s scheduled for the same hour as yesterday. Even if I&amp;rsquo;m not the first, I&amp;rsquo;ll be one of the first, which means I probably won&amp;rsquo;t have to wait much.
-Again, I felt that fantastic relaxation feeling in my body.</description>
-    </item>
-    
-    <item>
-      <title>Transcranial magnetic stimulation medical appointment scheduled</title>
-      <link>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</link>
-      <pubDate>Mon, 06 Dec 2021 15:20:00 +0100</pubDate>
-      
-      <guid>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</guid>
-      <description>Today, I received a call from the only medical centre in Portugal dedicated to fibromyalgia. They wanted to schedule the first appointment with me.
-When I called them to schedule it, they told me they were only registering contacts and that the appointments would only be from January forward. However, today, they scheduled it for next week. I&amp;rsquo;m super excited!</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>medical appointment on Fibro Hell</title><link>https://fibrohell.github.io/tags/medical-appointment/</link><description>Recent content in medical appointment on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a></copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:10 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/medical-appointment/index.xml" rel="self" type="application/rss+xml"/><item><title>Third appointment done</title><link>https://fibrohell.github.io/posts/third-appointment/</link><pubDate>Thu, 10 Feb 2022 00:00:10 +0100</pubDate><guid>https://fibrohell.github.io/posts/third-appointment/</guid><description>Yesterday, the 10th, I had my third transcranial magnetic stimulation appointment. Unlike last time, there was no delay; I believe it was because I was the day&amp;rsquo;s first patient. I&amp;rsquo;ll probably be the first again on the next one because it&amp;rsquo;s scheduled for the same hour as yesterday. Even if I&amp;rsquo;m not the first, I&amp;rsquo;ll be one of the first, which means I probably won&amp;rsquo;t have to wait much.
+Again, I felt that fantastic relaxation feeling in my body.</description></item><item><title>Transcranial magnetic stimulation medical appointment scheduled</title><link>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</link><pubDate>Mon, 06 Dec 2021 15:20:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</guid><description>Today, I received a call from the only medical centre in Portugal dedicated to fibromyalgia. They wanted to schedule the first appointment with me.
+When I called them to schedule it, they told me they were only registering contacts and that the appointments would only be from January forward. However, today, they scheduled it for next week. I&amp;rsquo;m super excited!</description></item></channel></rss>

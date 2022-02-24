@@ -1,25 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>list on Fibro Hell</title>
-    <link>https://fibrohell.github.io/tags/list/</link>
-    <description>Recent content in list on Fibro Hell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Sat, 06 Nov 2021 03:42:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/list/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>List of recent fibromyalgia studies</title>
-      <link>https://fibrohell.github.io/posts/list-of-studies/</link>
-      <pubDate>Sat, 06 Nov 2021 03:42:00 +0100</pubDate>
-      
-      <guid>https://fibrohell.github.io/posts/list-of-studies/</guid>
-      <description>I compiled, below, a small list of recent fibromyalgia scientific studies with open access so that people diagnosed with it can better understand the syndrome and find ways to improve symptoms management. Also, people who don&amp;rsquo;t have it can better understand how much patients diagnosed with it suffer.
-List   Fibromyalgia—A Review for the Psychiatrist
-  Default mode network changes in fibromyalgia patients are largely dependent on current clinical pain
-  Metabolic fingerprinting for diagnosis of fibromyalgia and other rheumatologic disorders</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>list on Fibro Hell</title><link>https://fibrohell.github.io/tags/list/</link><description>Recent content in list on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a></copyright><lastBuildDate>Sat, 06 Nov 2021 03:42:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/list/index.xml" rel="self" type="application/rss+xml"/><item><title>List of recent fibromyalgia studies</title><link>https://fibrohell.github.io/posts/list-of-studies/</link><pubDate>Sat, 06 Nov 2021 03:42:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/list-of-studies/</guid><description>I compiled, below, a small list of recent fibromyalgia scientific studies with open access so that people diagnosed with it can better understand the syndrome and find ways to improve symptoms management. Also, people who don&amp;rsquo;t have it can better understand how much patients diagnosed with it suffer.
+List Fibromyalgia—A Review for the Psychiatrist
+Default mode network changes in fibromyalgia patients are largely dependent on current clinical pain
+Metabolic fingerprinting for diagnosis of fibromyalgia and other rheumatologic disorders</description></item></channel></rss>
