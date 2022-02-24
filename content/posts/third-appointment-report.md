@@ -17,7 +17,6 @@ lastmod:
 featuredImage: /static/stephen-leonardi-OQd5nbI6ku0-unsplash.jpg
 draft: false
 ---
-# Third appointment
 
 On the 10th of February, I had the third transcranial magnetic stimulation appointment. I felt a mix of excitement and expectation and a fear the relief would be shorter than it has been or never exist again. In terms of percentages, it was around 80% excitement and 20% fear. That and a total dose of lack of sleep on the previous night.
 
