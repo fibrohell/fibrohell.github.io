@@ -1,5 +1,5 @@
 ---
-title: High level, non stopping
+title: High level, non-stopping
 description: I’ve been seeing this image on some subreddits, and I can’t imagine how great it would be if my pain was a never-ending, low-level one
 toc: false
 authors:
