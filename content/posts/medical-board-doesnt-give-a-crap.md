@@ -22,7 +22,7 @@ On the 28th, I had to present myself again before a medical board. This time, I 
 
 I sent an email to a Portuguese fibromyalgia association the day after this. They told me exactly what I already suspected: they're stalling me. To me, this is the best-case scenario. The worst-case scenario is they want to force me to go through a hellish experience (another one...), so they can have an excuse to stop paying me the sick leave.
 
-If they stop, I won't have a way to pay for my medication and the monthly appointments. Getting back to work is impossible: sitting on the dining table to eat is already a too painful experience, let alone sitting for four hours at work. Today is an example: I had to eat in a hurry because I couldn't stand sitting in the chair.
+If they stop, I won't have a way to pay for my medication and the monthly appointments, and that means getting worse than I already am. Getting back to work is impossible: sitting on the dining table to eat is already a too painful experience, let alone sitting for four hours at work. Today is an example: I had to eat in a hurry because I couldn't stand sitting in the chair.
 
 People with a good support network won't feel much of the impact of having their paid sick leave not being paid. I, however, will feel it very hard. I don't have wealthy parents; I'm not rich either: I'm just someone who wants to control this just enough to get back to work and live a normal as possible life.
 
