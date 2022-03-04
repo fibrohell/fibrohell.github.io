@@ -18,7 +18,7 @@ featuredImage: ../static/dollar-gill-x4RjgQpCXSk-unsplash.jpg
 draft: false
 ---
 
-On the 28th, I had to present myself again before a medical board. This time, I was not insulted, screamed at or any other crazy stuff I've experienced with them before. However, I was told Social Security would stop paying me my sick leave very soon. They also said that I should consider disability retirement. There's only one thing about disability retirement: I don't want it. Social Security doesn't give it to people who live with fibromyalgia, no matter how much it impacts their lives.
+On the 28th, I had to present myself again before a medical board. This time, I was not insulted, screamed at or any other crazy stuff I've experienced with them before. However, I was told Social Security would stop paying me my sick leave very soon. They also said that I should consider disability retirement. There's only one thing about disability retirement: I don't want it, and Social Security doesn't give it to people who live with fibromyalgia, no matter how much it impacts their lives.
 
 I sent an email to a Portuguese fibromyalgia association the day after this. They told me exactly what I already suspected: they're stalling me. To me, this is the best-case scenario. The worst-case scenario is they want to force me to go through a hellish experience (another one...), so they can have an excuse to stop paying me the sick leave.
 
