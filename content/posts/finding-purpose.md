@@ -27,3 +27,5 @@ This *blog* was the first step towards that goal, but I knew that was far from e
 Of course, the article I mentioned above is just the beginning. I intend to have the media publish stories about this syndrome (something is being worked on, but I don't know if it will come to fruition), the discrimination we go through, and the suffering we endure every second of every day. I plan to have it mentioned on TV shows and, eventually, talk with Portugal's President about this and get his support in passing laws protecting us. Suppose I'm successful on a national level. In that case, I will consider doing it at a European Union level if I can gather support for it.
 
 This is a daunting task. I don't know if I'll succeed; I don't know if I'll have the energy to go through it. But trying it is my newfound life purpose.
+
+<small>_Image from [Unsplash](https://unsplash.com/photos/GTnFf_44e7o)_</small>
