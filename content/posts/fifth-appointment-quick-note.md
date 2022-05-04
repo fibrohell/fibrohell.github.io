@@ -18,7 +18,7 @@ featuredImage: /static/mathew-schwartz-8rj4sz9YLCI-unsplash.jpg
 draft: false
 ---
 
-I was thinking about only writing about my fifth low intensity magnetic transcranial stimulation after a few days. Still, because I didn't feel a significant decrease in pain, I decided to write a blog post today.
+I was thinking about only writing about my fifth low intensity transcranial magnetic stimulation after a few days. Still, because I didn't feel a significant decrease in pain, I decided to write a blog post today.
 
 The appointment was yesterday. It came after one of the worst months, just like last month. Also, I've felt the average pain intensity has increased. Those are two factors that should be accounted for when judging the effects of the treatment.
 After the appointment, I felt a lot of relief, but less than with the previous appointments. Even the previous one made me feel less pain, and that one didn't provide as much pain relief as the previous ones.
