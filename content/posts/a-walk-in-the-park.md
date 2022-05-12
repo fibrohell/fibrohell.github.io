@@ -16,7 +16,7 @@ series:
   - Daily Hell
 date: '2022-05-12T17:40:00+01:00'
 lastmod:
-featuredImage: ../static/_MG_2649.webp
+featuredImage: ../static/MG_2649.jpg
 draft: false
 ---
 
