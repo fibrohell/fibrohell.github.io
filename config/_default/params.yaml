@@ -41,10 +41,10 @@ math:
 
 comment:
   # Options: disqus, commento, valine and utterances.
-  handler: disqus
+  #handler: disqus
 
-  disqus:
-    shortname: fibro-hell
+  #disqus:
+    #shortname: fibro-hell
 
   # utterances:
   #   # Browse https://utteranc.es/ to see the options available.
