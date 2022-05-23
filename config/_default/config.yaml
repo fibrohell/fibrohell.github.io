@@ -42,6 +42,6 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: always
+  useResourceCacheWhen: fallback
 
 
