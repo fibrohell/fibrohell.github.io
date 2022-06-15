@@ -26,7 +26,7 @@ During the first weeks of taking CBD, I sometimes mixed it with regular weed, bu
 
 Mid 2021, more or less, I gave CBD another shot, and, this time, it had no effect. I did the same in February 2022, and the same thing happened: no pain relief. CBD is supposed to increase the organism's tolerance to pain, so feeling no effect was a bummer for me and a major letdown.
 
-During all this time, I used weed occasionally (it can be expensive, so I can't buy it every time I run out of it) and noticed something: when I was high, I felt less pain. I had read some stuff about weed over the years, took the opportunity to read some new (at the time) things about pain, and came up with a theory (just based on my experience, nothing scientific or anywhere near that): the way THC works on the brain seems to act as a buffer for the pain signals.
+During all this time, I used weed occasionally (it can be expensive, so I only buy two to three grams, a very small ammount, every few months) and noticed something: when I was high, I felt less pain. I had read some stuff about weed over the years, took the opportunity to read some new (at the time) things about pain, and came up with a theory (just based on my experience, nothing scientific or anywhere near that): the way THC works on the brain seems to act as a buffer for the pain signals.
 
 Putting it more straightforwardly, the brain is a bit like a computer: it only has limited processing resources. When it has more than one task that requires a lot of processing power, it has to balance its capabilities somewhat by not giving one demanding job all the focus and forgetting all the others. And let's not forget all the background stuff it does: spatial processing, signals from all over the body, etc.
 
