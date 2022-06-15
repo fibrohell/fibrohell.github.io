@@ -34,7 +34,7 @@ THC [attaches](https://nida.nih.gov/publications/research-reports/marijuana/how-
 
 Last week, I smoked weed every day. I'm no longer young, so I can't smoke 3, 4 or 5 joints in a morning or an afternoon, only 2 at best and in small paper sheets. The decrease in the pain level was immediately felt. During the first days, as soon as the high disappeared, the pain relief did too. After that, it would last up to two hours after the high.
 
-On Monday this week, Pedro Fonseca stopped by on his way on a road trip to have a launch and chat. Because I smoked on Sunday night (it was 'visit the in-laws' day, and I didn't want to meet them completely stoned), I could keep enough focus on the conversation. I still felt pain but had enough relief to not lose my concentration every other second. By the time he left, I was already feeling more pain, even having difficulty putting one of my feet on the ground because it hurt too much.
+On Monday this week, Pedro Fonseca stopped by on his way on a road trip to have lunch and chat. Because I smoked on Sunday night (it was 'visit the in-laws' day, and I didn't want to meet them completely stoned), I could keep enough focus on the conversation. I still felt pain but had enough relief to not lose my concentration every other second. By the time he left, I was already feeling more pain, even having difficulty putting one of my feet on the ground because it hurt too much.
 
 When Pedro left, I washed the dishes, lay down on the couch and smoked weed. It gave me pain relief for a bit, which was what I intended. I don't have weed now, and the pain level is returning to normal. I may buy it soon if the decrease in pain completely disappears.
 
