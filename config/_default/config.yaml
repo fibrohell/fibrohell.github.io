@@ -9,7 +9,7 @@ theme: eureka
  
 paginate: 5
 copyright: >
-  License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a> · Author: <a href="https://blog.brunomiguel.net">Bruno</a> · <a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo</a>
+  License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a> · Author: <a href="https://blog.brunomiguel.net">Bruno</a> · <a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo</a><br>I'm on the <a rel="me" href="https://masto.pt/@brunomiguel">Fediverse</a>
 enableEmoji: true
 enableGitInfo: true
 summaryLength: 75
