@@ -1,23 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>memory on Fibro Hell</title>
-    <link>https://fibrohell.github.io/tags/memory/</link>
-    <description>Recent content in memory on Fibro Hell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Fri, 12 Nov 2021 06:32:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/memory/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The impact of chronic pain in memory and concentration</title>
-      <link>https://fibrohell.github.io/posts/chronic-pain-memory-concentration/</link>
-      <pubDate>Fri, 12 Nov 2021 06:32:00 +0100</pubDate>
-      
-      <guid>https://fibrohell.github.io/posts/chronic-pain-memory-concentration/</guid>
-      <description>In 2007, researchers Dr. Bruce D. Dick and Dr. Saifudin Rashiq, from the University of Alberta&amp;rsquo;s Multidisciplinary Pain Centre in Edmonton, Canada, confirmed chronic pain impairs memory and concentration. Two-thirds of the participants in the research showed significant disruption of attention and memory when tested.
-Computerized tests were given to the 24 participants, all of whom had continuous pain lasting for at least six months, to understand the impact of chronic pain on memory. These tests were of working memory and a neuropsychological test of attention.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>memory on Fibro Hell</title><link>https://fibrohell.github.io/tags/memory/</link><description>Recent content in memory on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Fri, 12 Nov 2021 06:32:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/memory/index.xml" rel="self" type="application/rss+xml"/><item><title>The impact of chronic pain in memory and concentration</title><link>https://fibrohell.github.io/posts/chronic-pain-memory-concentration/</link><pubDate>Fri, 12 Nov 2021 06:32:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/chronic-pain-memory-concentration/</guid><description>In 2007, researchers Dr. Bruce D. Dick and Dr. Saifudin Rashiq, from the University of Alberta&amp;rsquo;s Multidisciplinary Pain Centre in Edmonton, Canada, confirmed chronic pain impairs memory and concentration. Two-thirds of the participants in the research showed significant disruption of attention and memory when tested.
+Computerized tests were given to the 24 participants, all of whom had continuous pain lasting for at least six months, to understand the impact of chronic pain on memory. These tests were of working memory and a neuropsychological test of attention.</description></item></channel></rss>
