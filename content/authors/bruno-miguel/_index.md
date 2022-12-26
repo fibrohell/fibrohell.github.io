@@ -7,6 +7,9 @@ bio: Suffering from fibromyalgia since July 2020
 #  name: Example Organization
 #  url: https://example.com/
 social:
+  - icon: mastodon
+    iconPack: fab
+    url: https://masto.pt/@brunomiguel
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/brunomiguel
