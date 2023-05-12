@@ -27,5 +27,3 @@ I'm so sick of the bullshit around fibromyalgia. The latest I've read is an [*ar
 Shit like this creates a lot of obstacles to getting actual help. Instead, it helps perpetuate the habit of dosing patients with antidepressants instead of prescribing medication that actually helps deal with the pain. I'm struggling with this: my meds barely have any impact on my pain management, and I can't get a doctor to prescribe anything stronger because... happiness, antidepressants, and all that bullshit.
 
 Stop reporting crap like this for the love of Zeus!
-
-<small>_Photo from [Unsplash](https://unsplash.com/photos/6EnTPvPPL6I)_</small>
