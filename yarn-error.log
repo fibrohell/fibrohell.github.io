@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn install
+
+PATH: 
+  /home/brunomiguel/.local/share/gem/ruby/3.0.0/bin:/home/brunomiguel/.local/share/gem/ruby/3.0.0/bin:/home/brunomiguel/.local/share/gem/ruby/3.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/brunomiguel/.local/share/flatpak/exports/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.4.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EACCES: permission denied, unlink '/home/brunomiguel/projetos/blogs/fibrohell.github.io/node_modules/@nodelib/fs.scandir/LICENSE'
+
+npm manifest: 
+  {
+    "dependencies": {
+      "postcss-cli": "^10.1.0",
+      "postcss-import": "^15.1.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
