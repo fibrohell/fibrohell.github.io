@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Exercise on Fibro Hell</title>
-    <link>http://localhost:1313/tags/exercise/</link>
-    <description>Recent content in Exercise on Fibro Hell</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/exercise/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A walk in the park</title>
-      <link>http://localhost:1313/posts/a-walk-in-the-park/</link>
-      <pubDate>Thu, 12 May 2022 17:40:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/a-walk-in-the-park/</guid>
-      <description>&lt;p&gt;On the 10th, the wife and I went to a park within walking distance from home to celebrate her negative Covid test. It takes less than 5 minutes to get there on foot. Still, it took us ~15 minutes because I was walking super slow and with considerable difficulties.&lt;/p&gt;&#xA;&lt;p&gt;When we arrived, I was with one foot to the grave. I had to sit for a while (but I actually wanted to lay down on the floor), and then I proceeded to take some photos. I felt super happy hanging out with her in a lovely park and shooting pictures, which depleted my energy.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Exercise on Fibro Hell</title><link>https://fibrohell.github.io/tags/exercise/</link><description>Recent content in Exercise on Fibro Hell</description><generator>Hugo</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/exercise/index.xml" rel="self" type="application/rss+xml"/><item><title>A walk in the park</title><link>https://fibrohell.github.io/posts/a-walk-in-the-park/</link><pubDate>Thu, 12 May 2022 17:40:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/a-walk-in-the-park/</guid><description>&lt;p>On the 10th, the wife and I went to a park within walking distance from home to celebrate her negative Covid test. It takes less than 5 minutes to get there on foot. Still, it took us ~15 minutes because I was walking super slow and with considerable difficulties.&lt;/p>
+&lt;p>When we arrived, I was with one foot to the grave. I had to sit for a while (but I actually wanted to lay down on the floor), and then I proceeded to take some photos. I felt super happy hanging out with her in a lovely park and shooting pictures, which depleted my energy.&lt;/p></description></item></channel></rss>
