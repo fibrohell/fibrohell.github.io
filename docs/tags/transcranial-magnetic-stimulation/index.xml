@@ -1,9 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>transcranial magnetic stimulation on Fibro Hell</title><link>https://fibrohell.github.io/tags/transcranial-magnetic-stimulation/</link><description>Recent content in transcranial magnetic stimulation on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Wed, 04 May 2022 21:30:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/transcranial-magnetic-stimulation/index.xml" rel="self" type="application/rss+xml"/><item><title>Fifth appointment - quick notes</title><link>https://fibrohell.github.io/posts/fifth-appointment-quick-note/</link><pubDate>Wed, 04 May 2022 21:30:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/fifth-appointment-quick-note/</guid><description>I was thinking about only writing about my fifth low intensity transcranial magnetic stimulation after a few days. Still, because I didn&amp;rsquo;t feel a significant decrease in pain, I decided to write a blog post today.
-The appointment was yesterday. It came after one of the worst months, just like last month. Also, I&amp;rsquo;ve felt the average pain intensity has increased. Those are two factors that should be accounted for when judging the effects of the treatment.</description></item><item><title>Fourth appointment</title><link>https://fibrohell.github.io/posts/fourth-appointment/</link><pubDate>Tue, 12 Apr 2022 02:00:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/fourth-appointment/</guid><description>On the fifth of this month, I had my fourth transcranial magnetic stimulation appointment. It was supposed to be by the end of March. Sadly, money doesn&amp;rsquo;t stretch, and I had to reschedule it, even though I sorely needed it. March was one of the worst months I had so far: I spent most of that month only sleeping every other day.
-The day of the appointment came, and I was exhausted and in much pain.</description></item><item><title>Third appointment done</title><link>https://fibrohell.github.io/posts/third-appointment/</link><pubDate>Thu, 10 Feb 2022 00:00:10 +0100</pubDate><guid>https://fibrohell.github.io/posts/third-appointment/</guid><description>Yesterday, the 10th, I had my third transcranial magnetic stimulation appointment. Unlike last time, there was no delay; I believe it was because I was the day&amp;rsquo;s first patient. I&amp;rsquo;ll probably be the first again on the next one because it&amp;rsquo;s scheduled for the same hour as yesterday. Even if I&amp;rsquo;m not the first, I&amp;rsquo;ll be one of the first, which means I probably won&amp;rsquo;t have to wait much.
-Again, I felt that fantastic relaxation feeling in my body.</description></item><item><title>The pain relief didn't last long</title><link>https://fibrohell.github.io/posts/pain-increase-back/</link><pubDate>Fri, 14 Jan 2022 01:45:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/pain-increase-back/</guid><description>I thought the effects would last longer when I published the previous blog post. I wasn&amp;rsquo;t sure about them enduring a whole week, but at least five days. Not this time; maybe next time. Even so, it lasted longer than last month, so I call it progress, and I keep myself hopeful about this treatment!
-Thirty minutes, more or less, after publishing that blog post, I started feeling an increase in the pain intensity. It went from a 2.</description></item><item><title>Still feeling the treatment effects</title><link>https://fibrohell.github.io/posts/second-appointment-less-pain/</link><pubDate>Thu, 13 Jan 2022 01:30:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/second-appointment-less-pain/</guid><description>It&amp;rsquo;s already past 1 AM here in Portugal. I was expecting yesterday would be a day with more pain than usual, just like last month, three days after my first transcranial magnetic stimulation appointment.
-Pessimistic as it may sound, I believe it&amp;rsquo;s better, in this particular case, to be prepared for the worse in case it happens. If it doesn&amp;rsquo;t, it&amp;rsquo;s a nice and pleasant surprise, don&amp;rsquo;t you agree?
-Well, the worst-case scenario didn&amp;rsquo;t come to fruition.</description></item><item><title>Transcranial magnetic stimulation medical appointment scheduled</title><link>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</link><pubDate>Mon, 06 Dec 2021 15:20:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation-appointment-scheduled/</guid><description>Today, I received a call from the only medical centre in Portugal dedicated to fibromyalgia. They wanted to schedule the first appointment with me.
-When I called them to schedule it, they told me they were only registering contacts and that the appointments would only be from January forward. However, today, they scheduled it for next week. I&amp;rsquo;m super excited!</description></item><item><title>Study shows that Transcranial Magnetic Stimulation can help decrease the pain</title><link>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation/</link><pubDate>Wed, 01 Dec 2021 06:30:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/transcranial-magnetic-stimulation/</guid><description>Two weeks ago, if memory serves me right, I watched the news on TV about a centre dedicated to fibromyalgia opening here I&amp;rsquo;m Portugal. They are performing a study using repetitive transcranial magnetic stimulation (rTMS), which got my attention. I searched for publications about this treatment and got my hands on a 2010 research.
-In the study, the authors hypothesize, based on previous works, that dysfunctions in the central nervous system related to changes in central pain processing could be the cause.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcranial Magnetic Stimulation on Fibro Hell</title>
+    <link>http://localhost:1313/tags/transcranial-magnetic-stimulation/</link>
+    <description>Recent content in Transcranial Magnetic Stimulation on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/transcranial-magnetic-stimulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fifth appointment - quick notes</title>
+      <link>http://localhost:1313/posts/fifth-appointment-quick-note/</link>
+      <pubDate>Wed, 04 May 2022 21:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fifth-appointment-quick-note/</guid>
+      <description>&lt;p&gt;I was thinking about only writing about my fifth low intensity transcranial magnetic stimulation after a few days. Still, because I didn&amp;rsquo;t feel a significant decrease in pain, I decided to write a blog post today.&lt;/p&gt;&#xA;&lt;p&gt;The appointment was yesterday. It came after one of the worst months, just like last month. Also, I&amp;rsquo;ve felt the average pain intensity has increased. Those are two factors that should be accounted for when judging the effects of the treatment.&#xA;After the appointment, I felt a lot of relief, but less than with the previous appointments. Even the previous one made me feel less pain, and that one didn&amp;rsquo;t provide as much pain relief as the previous ones.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fourth appointment</title>
+      <link>http://localhost:1313/posts/fourth-appointment/</link>
+      <pubDate>Tue, 12 Apr 2022 02:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fourth-appointment/</guid>
+      <description>&lt;p&gt;On the fifth of this month, I had my fourth transcranial magnetic stimulation appointment. It was supposed to be by the end of March. Sadly, money doesn&amp;rsquo;t stretch, and I had to reschedule it, even though I sorely needed it. March was one of the worst months I had so far: I spent most of that month only sleeping every other day.&lt;/p&gt;&#xA;&lt;p&gt;The day of the appointment came, and I was exhausted and in much pain. Fortunately, the therapy relieved that, and I left the centre feeling much better. Yet, not as good as in the other appointments. I assume this was because, as I wrote above, I was coming from one of the worst months.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Third appointment done</title>
+      <link>http://localhost:1313/posts/third-appointment/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:10 +0100</pubDate>
+      <guid>http://localhost:1313/posts/third-appointment/</guid>
+      <description>&lt;p&gt;Yesterday, the 10th, I had my third transcranial magnetic stimulation appointment. Unlike &lt;a href=&#34;https://fibrohell.github.io/posts/second-appointment/&#34;&gt;last time&lt;/a&gt;, there was no delay; I believe it was because I was the day&amp;rsquo;s first patient. I&amp;rsquo;ll probably be the first again on the next one because it&amp;rsquo;s scheduled for the same hour as yesterday. Even if I&amp;rsquo;m not the first, I&amp;rsquo;ll be one of the first, which means I probably won&amp;rsquo;t have to wait much.&lt;/p&gt;&#xA;&lt;p&gt;Again, I felt that fantastic relaxation feeling in my body. This time, it started during the first part of the treatment, not by the end like the previous two appointments, and only increased from there. When I left the office, I was smiling. That was crazy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The pain relief didn&#39;t last long</title>
+      <link>http://localhost:1313/posts/pain-increase-back/</link>
+      <pubDate>Fri, 14 Jan 2022 01:45:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/pain-increase-back/</guid>
+      <description>&lt;p&gt;I thought the effects would last longer when I published the previous blog post. I wasn&amp;rsquo;t sure about them enduring a whole week, but at least five days. Not this time; maybe next time. Even so, it lasted longer than last month, so I call it progress, and I keep myself hopeful about this treatment!&lt;/p&gt;&#xA;&lt;p&gt;Thirty minutes, more or less, after publishing that blog post, I started feeling an increase in the pain intensity. It went from a 2.0, on a scale of 0 to 10, to a 4.5 in a heartbeat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Still feeling the treatment effects</title>
+      <link>http://localhost:1313/posts/second-appointment-less-pain/</link>
+      <pubDate>Thu, 13 Jan 2022 01:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/second-appointment-less-pain/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s already past 1 AM here in Portugal. I was expecting yesterday would be a day with more pain than usual, just like last month, three days after my first transcranial magnetic stimulation appointment.&lt;/p&gt;&#xA;&lt;p&gt;Pessimistic as it may sound, I believe it&amp;rsquo;s better, in this particular case, to be prepared for the worse in case it happens. If it doesn&amp;rsquo;t, it&amp;rsquo;s a nice and pleasant surprise, don&amp;rsquo;t you agree?&lt;/p&gt;&#xA;&lt;p&gt;Well, the worst-case scenario didn&amp;rsquo;t come to fruition. My body hurt more than the day of the appointment and the next day after it, but it was manageable. I admit I didn&amp;rsquo;t do much yesterday, but that was also the case in basically all my worst pain days.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transcranial magnetic stimulation medical appointment scheduled</title>
+      <link>http://localhost:1313/posts/transcranial-magnetic-stimulation-appointment-scheduled/</link>
+      <pubDate>Mon, 06 Dec 2021 15:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/transcranial-magnetic-stimulation-appointment-scheduled/</guid>
+      <description>&lt;p&gt;Today, I received a call from the only medical centre in Portugal dedicated to fibromyalgia. They wanted to schedule the first appointment with me.&lt;/p&gt;&#xA;&lt;p&gt;When I called them to schedule it, they told me they were only registering contacts and that the appointments would only be from January forward. However, today, they scheduled it for next week. I&amp;rsquo;m super excited!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Study shows that Transcranial Magnetic Stimulation can help decrease the pain</title>
+      <link>http://localhost:1313/posts/transcranial-magnetic-stimulation/</link>
+      <pubDate>Wed, 01 Dec 2021 06:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/transcranial-magnetic-stimulation/</guid>
+      <description>&lt;p&gt;Two weeks ago, if memory serves me right, I watched the news on TV about a centre dedicated to fibromyalgia opening here I&amp;rsquo;m Portugal. They are performing a study using repetitive transcranial magnetic stimulation (rTMS), which got my attention. I searched for publications about this treatment and got my hands on a 2010 research.&lt;/p&gt;&#xA;&lt;p&gt;In the study, the authors hypothesize, based on previous works, that dysfunctions in the central nervous system related to changes in central pain processing could be the cause.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

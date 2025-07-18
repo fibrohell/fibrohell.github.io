@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>progress on Fibro Hell</title><link>https://fibrohell.github.io/tags/progress/</link><description>Recent content in progress on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Thu, 16 Dec 2021 03:00:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/progress/index.xml" rel="self" type="application/rss+xml"/><item><title>The third day after the first therapy session</title><link>https://fibrohell.github.io/posts/third-day/</link><pubDate>Thu, 16 Dec 2021 03:00:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/third-day/</guid><description>Yesterday was the third day after the first transcranial neurostimulation session. On the first day, as I wrote before, a tingling sensation started right after the therapy (well, technically, it began during it), and it increased a little as time went by. In over a year, it was the first time that I felt my body relaxing, so it felt terrific.
-Unfortunately, the 200km ride back home was tiring. When we got home, I had to go straight to the couch.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progress on Fibro Hell</title>
+    <link>http://localhost:1313/tags/progress/</link>
+    <description>Recent content in Progress on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The third day after the first therapy session</title>
+      <link>http://localhost:1313/posts/third-day/</link>
+      <pubDate>Thu, 16 Dec 2021 03:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/third-day/</guid>
+      <description>&lt;p&gt;Yesterday was the third day after the first transcranial neurostimulation session. On the first day, as I &lt;a href=&#34;https://fibrohell.github.io/posts/first-transcranial-neurostimulation-appointment/&#34;&gt;wrote&lt;/a&gt; before, a tingling sensation started right after the therapy (well, technically, it began during it), and it increased a little as time went by. In over a year, it was the first time that I felt my body relaxing, so it felt terrific.&lt;/p&gt;&#xA;&lt;p&gt;Unfortunately, the 200km ride back home was tiring. When we got home, I had to go straight to the couch. My body was aching, but not as much as it would before. It felt &lt;em&gt;good&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

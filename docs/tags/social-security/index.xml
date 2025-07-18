@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>social security on Fibro Hell</title><link>https://fibrohell.github.io/tags/social-security/</link><description>Recent content in social security on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Tue, 18 Apr 2023 18:30:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/social-security/index.xml" rel="self" type="application/rss+xml"/><item><title>Driven to desperation</title><link>https://fibrohell.github.io/posts/driven-to-desperation/</link><pubDate>Tue, 18 Apr 2023 18:30:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/driven-to-desperation/</guid><description>A couple of months ago, more or less (I don&amp;rsquo;t remember the exact date), I was forced by Social Security to request disability. I had previously talked with a fibromyalgia association, and they told me they do this to stop paying the sick leave, which can legally last up to three years in Portugal. Forced, I requested it, but it was denied. The reasoning is that this is a cyclical syndrome. I should have periods with no pain, despite being known this doesn&amp;rsquo;t happen in some cases or, at best, the pain periods are very long, and the low or no pain periods are very short.</description></item><item><title>Medical board to me: fuck you very much</title><link>https://fibrohell.github.io/posts/medical-board-doesnt-give-a-crap/</link><pubDate>Fri, 04 Mar 2022 14:50:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/medical-board-doesnt-give-a-crap/</guid><description>On the 28th, I had to present myself again before a medical board. This time, I was not insulted, screamed at or any other crazy stuff I&amp;rsquo;ve experienced with them before. However, I was told Social Security would stop paying me my sick leave very soon. They also said that I should consider disability retirement. There&amp;rsquo;s only one thing about disability retirement: I don&amp;rsquo;t want it, and Social Security doesn&amp;rsquo;t give it to people who live with fibromyalgia, no matter how much it impacts their lives.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Security on Fibro Hell</title>
+    <link>http://localhost:1313/tags/social-security/</link>
+    <description>Recent content in Social Security on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Tue, 18 Apr 2023 19:37:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/social-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driven to desperation</title>
+      <link>http://localhost:1313/posts/driven-to-desperation/</link>
+      <pubDate>Tue, 18 Apr 2023 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/driven-to-desperation/</guid>
+      <description>&lt;p&gt;A couple of months ago, more or less (I don&amp;rsquo;t remember the exact date), I was forced by Social Security to request disability. I had previously talked with a fibromyalgia association, and they told me they do this to stop paying the sick leave, which can legally last up to three years in Portugal. Forced, I requested it, but it was denied. The reasoning is that this is a cyclical syndrome. I should have periods with no pain, despite being known this doesn&amp;rsquo;t happen in some cases or, at best, the pain periods are very long, and the low or no pain periods are very short.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medical board to me: fuck you very much</title>
+      <link>http://localhost:1313/posts/medical-board-doesnt-give-a-crap/</link>
+      <pubDate>Fri, 04 Mar 2022 14:50:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/medical-board-doesnt-give-a-crap/</guid>
+      <description>&lt;p&gt;On the 28th, I had to present myself again before a medical board. This time, I was not insulted, screamed at or any other crazy stuff I&amp;rsquo;ve experienced with them before. However, I was told Social Security would stop paying me my sick leave very soon. They also said that I should consider disability retirement. There&amp;rsquo;s only one thing about disability retirement: I don&amp;rsquo;t want it, and Social Security doesn&amp;rsquo;t give it to people who live with fibromyalgia, no matter how much it impacts their lives.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

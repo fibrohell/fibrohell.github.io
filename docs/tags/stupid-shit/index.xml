@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>stupid shit on Fibro Hell</title><link>https://fibrohell.github.io/tags/stupid-shit/</link><description>Recent content in stupid shit on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Fri, 31 Dec 2021 04:46:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/stupid-shit/index.xml" rel="self" type="application/rss+xml"/><item><title>No pain, no what!?</title><link>https://fibrohell.github.io/posts/no-pain-no-go-fuck-yourself/</link><pubDate>Fri, 31 Dec 2021 04:46:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/no-pain-no-go-fuck-yourself/</guid><description>I just say the above picture posted by u/mordrathe on /r/ChronicPain about that amazingly stupid catchphrase &amp;ldquo;No pain, no gain&amp;rdquo; and it hit home. After spending almost 18 months in constant pain, I gained so much disdain for it!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stupid Shit on Fibro Hell</title>
+    <link>http://localhost:1313/tags/stupid-shit/</link>
+    <description>Recent content in Stupid Shit on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stupid-shit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No pain, no what!?</title>
+      <link>http://localhost:1313/posts/no-pain-no-go-fuck-yourself/</link>
+      <pubDate>Fri, 31 Dec 2021 04:46:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/no-pain-no-go-fuck-yourself/</guid>
+      <description>&lt;p&gt;I just say the above picture posted by &lt;a href=&#34;https://reddit.com/u/mordrathe&#34;&gt;u/mordrathe&lt;/a&gt; on &lt;a href=&#34;https://www.reddit.com/r/ChronicPain/comments/rs3r64/so_much_gain/&#34;&gt;/r/ChronicPain&lt;/a&gt; about that amazingly stupid catchphrase &amp;ldquo;No pain, no gain&amp;rdquo; and it hit home. After spending almost 18 months in constant pain, I gained so much disdain for it!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

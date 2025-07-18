@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>thc on Fibro Hell</title><link>https://fibrohell.github.io/tags/thc/</link><description>Recent content in thc on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Wed, 15 Jun 2022 05:50:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/thc/index.xml" rel="self" type="application/rss+xml"/><item><title>Cannabis and pain</title><link>https://fibrohell.github.io/posts/cannabis-pain/</link><pubDate>Wed, 15 Jun 2022 05:50:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/cannabis-pain/</guid><description>Since the pain from fibromyalgia started, I tried a lot of stuff to ease my suffering. I took lots of different pills, did physiotherapy, tried exercising but stopped because even light exercise increased the pain, meditation, and so on. One time, by the end of November 2020, I tried CBD. It worked at the time, but I only started to feel the effects on the first days of December that year, when I returned to work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thc on Fibro Hell</title>
+    <link>http://localhost:1313/tags/thc/</link>
+    <description>Recent content in Thc on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cannabis and pain</title>
+      <link>http://localhost:1313/posts/cannabis-pain/</link>
+      <pubDate>Wed, 15 Jun 2022 05:50:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/cannabis-pain/</guid>
+      <description>&lt;p&gt;Since the pain from fibromyalgia started, I tried a lot of stuff to ease my suffering. I took lots of different pills, did physiotherapy, tried exercising but stopped because even light exercise increased the pain, meditation, and so on. One time, by the end of November 2020, I tried CBD. It worked at the time, but I only started to feel the effects on the first days of December that year, when I returned to work. They lasted until February 2021, when the pain increased again no matter how much CBD I took.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

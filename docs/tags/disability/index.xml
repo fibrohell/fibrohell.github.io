@@ -1,2 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>disability on Fibro Hell</title><link>https://fibrohell.github.io/tags/disability/</link><description>Recent content in disability on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Tue, 18 Apr 2023 18:30:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/disability/index.xml" rel="self" type="application/rss+xml"/><item><title>Driven to desperation</title><link>https://fibrohell.github.io/posts/driven-to-desperation/</link><pubDate>Tue, 18 Apr 2023 18:30:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/driven-to-desperation/</guid><description>A couple of months ago, more or less (I don&amp;rsquo;t remember the exact date), I was forced by Social Security to request disability. I had previously talked with a fibromyalgia association, and they told me they do this to stop paying the sick leave, which can legally last up to three years in Portugal. Forced, I requested it, but it was denied. The reasoning is that this is a cyclical syndrome. I should have periods with no pain, despite being known this doesn&amp;rsquo;t happen in some cases or, at best, the pain periods are very long, and the low or no pain periods are very short.</description></item><item><title>I feel defeated</title><link>https://fibrohell.github.io/posts/i-feel-defeated/</link><pubDate>Thu, 26 Jan 2023 18:40:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/i-feel-defeated/</guid><description>In Portugal, you have a limit for how long you can be on sick leave uninterrupted. That limit is three years. After that, you must request a disability evaluation.
-I&amp;rsquo;ve been on uninterrupted sick leave for almost two years. Last week, I had my latest presentation before Social Security&amp;rsquo;s medical board. In a very aggressive manner (both in language and body posture), they told me that I had 15 days to send them the request for disability or they&amp;rsquo;ll stop paying me the sick leave.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disability on Fibro Hell</title>
+    <link>http://localhost:1313/tags/disability/</link>
+    <description>Recent content in Disability on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Tue, 18 Apr 2023 19:37:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/disability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driven to desperation</title>
+      <link>http://localhost:1313/posts/driven-to-desperation/</link>
+      <pubDate>Tue, 18 Apr 2023 18:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/driven-to-desperation/</guid>
+      <description>&lt;p&gt;A couple of months ago, more or less (I don&amp;rsquo;t remember the exact date), I was forced by Social Security to request disability. I had previously talked with a fibromyalgia association, and they told me they do this to stop paying the sick leave, which can legally last up to three years in Portugal. Forced, I requested it, but it was denied. The reasoning is that this is a cyclical syndrome. I should have periods with no pain, despite being known this doesn&amp;rsquo;t happen in some cases or, at best, the pain periods are very long, and the low or no pain periods are very short.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I feel defeated</title>
+      <link>http://localhost:1313/posts/i-feel-defeated/</link>
+      <pubDate>Thu, 26 Jan 2023 18:40:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/i-feel-defeated/</guid>
+      <description>&lt;p&gt;In Portugal, you have a limit for how long you can be on sick leave uninterrupted. That limit is three years. After that, you must request a disability evaluation.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been on uninterrupted sick leave for almost two years. Last week, I had my latest presentation before Social Security&amp;rsquo;s medical board. In a very aggressive manner (both in language and body posture), they told me that I had 15 days to send them the request for disability or they&amp;rsquo;ll stop paying me the sick leave.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>fundraiser on Fibro Hell</title><link>https://fibrohell.github.io/tags/fundraiser/</link><description>Recent content in fundraiser on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Wed, 01 Jun 2022 00:55:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/fundraiser/index.xml" rel="self" type="application/rss+xml"/><item><title>About the good of humankind</title><link>https://fibrohell.github.io/posts/about-the-good-of-humankind/</link><pubDate>Wed, 01 Jun 2022 00:55:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/about-the-good-of-humankind/</guid><description>A while ago, I confided with some folks that things were getting a bit hard on the money side. My sick leave is meagre at best. It&amp;rsquo;s not enough for all the medication - not just for the fibromyalgia - I take during the month and for my monthly appointment and related costs (like gas and tolls). The wife works - and a lot, on top of that. Since I was forced to go on sick leave, she&amp;rsquo;s had to support all the costs like rent, food, and utility bills&amp;hellip; You can only stretch the money so much before it rips.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundraiser on Fibro Hell</title>
+    <link>http://localhost:1313/tags/fundraiser/</link>
+    <description>Recent content in Fundraiser on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fundraiser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the good of humankind</title>
+      <link>http://localhost:1313/posts/about-the-good-of-humankind/</link>
+      <pubDate>Wed, 01 Jun 2022 00:55:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/about-the-good-of-humankind/</guid>
+      <description>&lt;p&gt;A while ago, I confided with some folks that things were getting a bit hard on the money side. My sick leave is meagre at best. It&amp;rsquo;s not enough for all the medication - not just for the fibromyalgia - I take during the month and for my monthly appointment and related costs (like gas and tolls). The wife works - and a lot, on top of that. Since I was forced to go on sick leave, she&amp;rsquo;s had to support all the costs like rent, food, and utility bills&amp;hellip; You can only stretch the money so much before it rips.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

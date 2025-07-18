@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>daily life on Fibro Hell</title><link>https://fibrohell.github.io/tags/daily-life/</link><description>Recent content in daily life on Fibro Hell</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>License: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0&lt;/a> · Author: &lt;a href="https://blog.brunomiguel.net">Bruno&lt;/a> · &lt;a href="https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/">Logo&lt;/a>&lt;br>I'm on the &lt;a rel="me" href="https://masto.pt/@brunomiguel">Fediverse&lt;/a></copyright><lastBuildDate>Sat, 05 Feb 2022 17:00:00 +0100</lastBuildDate><atom:link href="https://fibrohell.github.io/tags/daily-life/index.xml" rel="self" type="application/rss+xml"/><item><title>Better on the surface</title><link>https://fibrohell.github.io/posts/better-on-the-surface/</link><pubDate>Sat, 05 Feb 2022 17:00:00 +0100</pubDate><guid>https://fibrohell.github.io/posts/better-on-the-surface/</guid><description>I sometimes have a few days when I can walk, mostly normal, and I don&amp;rsquo;t spend the entire day complaining about the pain. It&amp;rsquo;s not that I don&amp;rsquo;t feel pain (I wish it were that!), but that I don&amp;rsquo;t feel as much pain as usual. When people see me on days like these, they always ask me if I&amp;rsquo;m already healed. As soon as I reply &amp;ldquo;No&amp;rdquo;, they look at me like I&amp;rsquo;m lying and trying to trick them.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Life on Fibro Hell</title>
+    <link>http://localhost:1313/tags/daily-life/</link>
+    <description>Recent content in Daily Life on Fibro Hell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC-BY-SA-4.0&lt;/a&gt; · Author: &lt;a href=&#34;https://blog.brunomiguel.net&#34;&gt;Bruno&lt;/a&gt; · &lt;a href=&#34;https://pixabay.com/pt/vectors/voo-doo-boneca-alfinetes-vodu-5403291/&#34;&gt;Logo&lt;/a&gt;&lt;br&gt;I&#39;m on the &lt;a rel=&#34;me&#34; href=&#34;https://masto.pt/@brunomiguel&#34;&gt;Fediverse&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:54:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/daily-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better on the surface</title>
+      <link>http://localhost:1313/posts/better-on-the-surface/</link>
+      <pubDate>Sat, 05 Feb 2022 17:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/better-on-the-surface/</guid>
+      <description>&lt;p&gt;I sometimes have a few days when I can walk, mostly normal, and I don&amp;rsquo;t spend the entire day complaining about the pain. It&amp;rsquo;s not that I don&amp;rsquo;t feel pain (I wish it were that!), but that I don&amp;rsquo;t feel as much pain as usual. When people see me on days like these, they always ask me if I&amp;rsquo;m already healed. As soon as I reply &amp;ldquo;No&amp;rdquo;, they look at me like I&amp;rsquo;m lying and trying to trick them. It&amp;rsquo;s far from frustrating: it&amp;rsquo;s infuriating!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
